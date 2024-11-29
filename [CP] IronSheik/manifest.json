@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] Iron Sheik",
+    "Author": "RomanceOfTheThreeFumos",
+    "Version": "1.0.0",
+    "Description": "Adds Iron Sheik as a marriageable candidate",
+    "UniqueID": "RomanceOfTheThreeFumos.IronSheikBachelor",
+    "UpdateKeys": ["Nexus:YOUR-MOD-ID"],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }

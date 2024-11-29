@@ -1,0 +1,16 @@
+{
+  "Format": "1.25.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+      "Entries": {
+        "Iron Sheik2Hearts": "spring_town/900 1800/Iron Sheik/force sunny/viewport 39 73/pause 500/speak Iron Sheik \"LISTEN JABRONI. TODAY I SHOW YOU OLD COUNTRY WAY OF REAL WRESTLING NOT THAT HULK HOGAN GARBAGE.\"/pause 500/speak Iron Sheik \"IN IRAN I TRAIN WITH WEIGHTS BIGGER THAN YOUR HOUSE. I MAKE THE CAMEL CRY WITH MY STRENGTH.$h\"/pause 800/speak Iron Sheik \"NOW I SHOW YOU REAL TECHNIQUE. NOT THAT HOLLYWOOD BULLSHIT.\"/pause 500/speak Iron Sheik \"YOU READY TO LEARN OR YOU BUBBA GUMP SHRIMP COMPANY INTELLIGENCE?$h\"/pause 1000/end",
+        "Iron Sheik4Hearts": "Saloon/1700 2400/Iron Sheik/force sunny/viewport 10 18/pause 500/speak Iron Sheik \"YOU! FARMER! COME HERE RIGHT NOW!\"/pause 500/speak Iron Sheik \"YOU KNOW WHY I RESPECT YOU? BECAUSE YOU WORK HARD LIKE REAL CHAMPION.\"/pause 800/speak Gus \"Iron Sheik, would you like your usual?\"/speak Iron Sheik \"YES! BRING THE DRINK BUT NO JABRONI GLASS.$h\"/pause 800/speak Iron Sheik \"LISTEN. IN THIS LIFE YOU MUST BE HUMBLE. EXCEPT WHEN YOU DEAL WITH HULK HOGAN THEN YOU BREAK HIS BACK MAKE HIM HUMBLE!\"/end",
+        "Iron Sheik6Hearts": "Mountain/1200 1600/Iron Sheik/force sunny/viewport 65 110/pause 500/speak Iron Sheik \"YOU KNOW BACK IN OLD COUNTRY I WAS REAL OLYMPIC CHAMPION. NOT LIKE KURT ANGLE WANNABE OLYMPIC CHAMPION.$h\"/pause 800/speak Iron Sheik \"I COME TO AMERICA WITH NOTHING BUT THESE TWO HANDS AND IRANIAN PRIDE.\"/pause 500/speak Iron Sheik \"NOW I TEACH YOU SECRET OF LIFE: SUPLEX EVERYONE WHO DISRESPECT YOU BUT LOVE THE ONES WHO RESPECT YOU.$l\"/end",
+        "Iron Sheik8Hearts": "BathHouse/900 1700/Iron Sheik/force sunny/viewport 2 5/pause 500/speak Iron Sheik \"TODAY WE TRAIN LIKE CHAMPION. NOT LIKE BRIAN BLAIR JABRONI.$h\"/pause 800/speak Iron Sheik \"FIRST WE DO 1000 SQUATS THEN WE BREAK SOMEBODY BACK MAKE THEM HUMBLE!\"/pause 500/speak Iron Sheik \"YOU HAVE HEART OF WARRIOR. MAYBE ONE DAY YOU ALMOST AS STRONG AS SHEIKY BABY.$l\"/end",
+        "Iron Sheik10Hearts": "Beach/1900 2300/Iron Sheik/force sunny/viewport 13 34/pause 1000/speak Iron Sheik \"YOU KNOW SOMETHING? YOU NOT JABRONI LIKE THE OTHERS.$l\"/pause 800/speak Iron Sheik \"YOU HAVE HEART OF CHAMPION AND RESPECT OF THE LEGEND.\"/pause 500/speak Iron Sheik \"MAYBE WE MAKE TAG TEAM FOR LIFE? BUT NOT LIKE B TEAM GARBAGE.$h\"/pause 1000/speak Iron Sheik \"I PUT YOU IN CAMEL CLUTCH... OF LOVE.$l\"/end"
+      }
+    }
+  ]
+}

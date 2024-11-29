@@ -1,0 +1,68 @@
+{
+  "Format": "2.4.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Iron Sheik",
+      "FromFile": "assets/sprites/NPCSpritesheetAligner.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/Iron Sheik",
+      "FromFile": "assets/portraits/sheik_1.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Iron Sheik",
+      "FromFile": "assets/dialogue/dialogue.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueIron Sheik",
+      "FromFile": "assets/dialogue/marriage_dialogue.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Iron Sheik": {
+          "DisplayName": "Iron Sheik",
+          "Gender": "Male",
+          "Age": "Adult",
+          "Manner": "Polite",
+          "SocialAnxiety": "Outgoing",
+          "Optimism": "Positive",
+          "HomeRegion": "Town",
+          
+          "CanSocialize": true,
+          "CanBeRomanced": true,
+          "CanReceiveGifts": true,
+          
+          "BirthSeason": "spring",
+          "BirthDay": 1,
+
+          "Home": [
+            {
+              "Id": "Default",
+              "Location": "Saloon",
+              "Tile": {
+                "X": 18,
+                "Y": 20
+              },
+              "Direction": "down"
+            }
+          ],
+
+          "TextureName": "Iron Sheik"
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+         "Iron Sheik": "JABRONI YOU BRING ME THE BEST GIFT! THIS MAKE SHEIKY BABY HAPPY!$h/346 395 72 337 336 237/YOU BRING GOOD GIFT LIKE REAL CHAMPION!$h/-4 418 773 772 771 227 730 260/WHAT KIND OF JABRONI GIFT IS THIS?$a/336 334 388 390 771 772/THIS WORSE THAN HULK HOGAN! GO FUCK YOURSELF FOREVER!$a/216 221 222 730 256 725/THIS GIFT MAKE ME HUMBLE.$n/ "
+      }
+    }
+  ]
+}

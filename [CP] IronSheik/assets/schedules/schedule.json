@@ -1,0 +1,19 @@
+{
+    "Format": "2.4.0",
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "Data/schedules/Iron Sheik",
+        "Entries": {
+          "spring": "GOTO Saloon 18 20/900 Town 39 73 2/1200 Mountain 65 110 1/1600 Saloon 10 18 2/2200 Saloon 18 20 0",
+          "spring_RAINING": "GOTO Saloon 18 20/1000 Saloon 10 18 2/2200 Saloon 18 20 0",
+          "summer": "GOTO Saloon 18 20/900 Town 39 73 2/1200 BathHouse_MensLocker 2 5 2/1600 Saloon 10 18 2/2200 Saloon 18 20 0",
+          "fall": "GOTO Saloon 18 20/900 Town 39 73 2/1200 Mountain 65 110 1/1600 Saloon 10 18 2/2200 Saloon 18 20 0",
+          "winter": "GOTO Saloon 18 20/1000 BathHouse_MensLocker 2 5 2/1400 Saloon 10 18 2/2200 Saloon 18 20 0",
+          "rain": "GOTO Saloon 18 20/1000 Saloon 10 18 2/2200 Saloon 18 20 0",
+          "Fri": "GOTO Saloon 18 20/900 Town 39 73 2/1200 BathHouse_MensLocker 2 5 2/1800 Saloon 10 18 2/2300 Saloon 18 20 0",
+          "Sat": "GOTO Saloon 18 20/1000 Town 39 73 2/1400 Saloon 10 18 2/2300 Saloon 18 20 0"
+        }
+      }
+    ]
+  }
