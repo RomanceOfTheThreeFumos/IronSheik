@@ -10,6 +10,7 @@ Dependencies/Directions:
 Requires ContentPatcher by Pathoschild
 https://github.com/Pathoschild
 https://www.nexusmods.com/stardewvalley/mods/2400
+
 https://www.nexusmods.com/stardewvalley/mods/1915?file_id=115668&nmm=1
 
 After installing Contentpatcher/SMAPI, simply drop the the entire Contentpatcher folder into Stardew Valley Mods folder. If running from steam, launch options will need to be set accordingly (adjust based on your local folder pathing)
